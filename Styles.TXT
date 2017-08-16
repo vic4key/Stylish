@@ -1,0 +1,204 @@
+@-moz-document domain("cpp.sh") {
+    .ace-tm {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .sheet.selected {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("github.com") {
+    .blob-code {
+        font-family: "Courier New" !important;
+        font-size: 12px !important;
+    }
+    .blob-num {
+        font-family: "Courier New" !important;
+        font-size: 12px !important;
+    }
+    .readme .plain pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .markdown-body pre code,
+    .markdown-body pre tt {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .markdown-body code,
+    .markdown-body tt {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .markdown-body .highlight pre,
+    .markdown-body pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .commits-list-item .commit-desc pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .commit .commit-title, .commit .commit-title a {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .commit-desc pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .f5 {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .file-info {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .blob-code-inner {
+        font-family: Courier !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("msdn.microsoft.com") {
+    .codeSnippetContainerCode pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document url("ideone.com") {
+    .ace_content {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("bitbucket.org") {
+    .file-source pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("kaggle.com") {
+    .script-code-pane pre.line-numbers > code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("pastebin.com") {
+    #code_frame div {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("coliru.stacked-crooked.com") {
+    .ace_editor {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("www.facebook.com") {
+    #facebook ._-kb span {
+        font-family: "Segoe UI" !important;
+        font-size: 13px !important;
+        line-height: 1.4;
+        font-style: normal;
+        font-weight: 500;
+    }
+    #facebook ._-kb div {
+        font-family: "Segoe UI" !important;
+        font-size: 13px !important;
+        line-height: 1.4;
+        font-style: normal;
+        font-weight: 500;
+    }
+    .UFICommentActorName {
+        font-weight: normal !important;
+    }
+    ._4x9_, ._a7s ._524d a, ._a7s ._50u4, ._1ysv {
+        font-weight: normal !important;
+    }
+}
+
+@-moz-document domain("stackoverflow.com") {
+    .post-text code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("www.codeproject.com") {
+    .container-content pre, .container-code pre, .answer pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("rextester.com") {
+    .CodeMirror {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    pre.resultarea, code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("raw.githubusercontent.com") {
+    pre, xmp, plaintext, listing {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("kipalog.com") {
+    #content * code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("readthedocs.io") {
+    pre, tt, code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("docs.python.org") {
+    pre, tt, code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("cppreference.com") {
+    tt, code, pre, .mw-geshi, .t-lc, .t-lines {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    p > a {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .t-dsc-header > td {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("tutorialspoint.com") {
+    pre.prettyprint, pre.result {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
