@@ -202,3 +202,14 @@
         font-size: 12px !important;
     }
 }
+
+@-moz-document domain("cplusplus.com") {
+    .source {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    pre, tt, code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
