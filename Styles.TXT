@@ -213,3 +213,24 @@
         font-size: 12px !important;
     }
 }
+
+@-moz-document domain("docs.microsoft.com") {
+    code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("pds.3si.vn") {
+    pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
+@-moz-document domain("192.168.50.250") {
+    pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
