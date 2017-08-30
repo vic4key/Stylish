@@ -221,6 +221,13 @@
     }
 }
 
+@-moz-document domain("techtalk.vn") {
+    code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
 @-moz-document domain("pds.3si.vn") {
     pre {
         font-family: Courier New !important;
