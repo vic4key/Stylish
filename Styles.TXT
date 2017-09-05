@@ -241,3 +241,10 @@
         font-size: 12px !important;
     }
 }
+
+@-moz-document domain("interviews.skype.com") {
+    .monaco-editor .view-line {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
