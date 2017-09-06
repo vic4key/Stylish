@@ -248,3 +248,13 @@
         font-size: 12px !important;
     }
 }
+
+@-moz-document domain("arduino.vn") {
+    pre.prettyprint {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .numeric-list > li {
+        padding: 1px 12px 1px 18px !important;
+    }
+}
