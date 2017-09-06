@@ -258,3 +258,11 @@
         padding: 1px 12px 1px 18px !important;
     }
 }
+
+@-moz-document domain("format.krzaq.cc") {
+    #data {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+        font-style: normal !important;
+    }
+}
