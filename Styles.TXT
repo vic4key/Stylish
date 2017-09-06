@@ -266,3 +266,14 @@
         font-style: normal !important;
     }
 }
+
+@-moz-document domain("api.jquery.com") {
+    .syntaxhighlighter pre, .syntaxhighlighter code, .syntaxhighlighter .line {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    pre, code {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
