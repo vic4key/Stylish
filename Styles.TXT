@@ -277,3 +277,12 @@
         font-size: 12px !important;
     }
 }
+
+@-moz-document domain("jqueryui.com") {
+    .syntaxhighlighter pre,
+    .syntaxhighlighter code,
+    .syntaxhighlighter textarea {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
