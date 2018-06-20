@@ -287,6 +287,60 @@
     }
 }
 
+@-moz-document domain("medium.com") {
+    .blob-code {
+        font-family: "Courier New" !important;
+        font-size: 12px !important;
+    }
+    .blob-num {
+        font-family: "Courier New" !important;
+        font-size: 12px !important;
+    }
+    .readme .plain pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .markdown-body pre code,
+    .markdown-body pre tt {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .markdown-body code,
+    .markdown-body tt {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .markdown-body .highlight pre,
+    .markdown-body pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .commits-list-item .commit-desc pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .commit .commit-title, .commit .commit-title a {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .commit-desc pre {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .f5 {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .file-info {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+    .blob-code-inner {
+        font-family: Courier !important;
+        font-size: 12px !important;
+    }
+}
+
 @-moz-document domain("192.168.50.250") {
     pre {
         font-family: Courier New !important;
