@@ -341,6 +341,13 @@
     }
 }
 
+@-moz-document domain("geeksforgeeks.org") {
+    .syntaxhighlighter textarea {
+        font-family: Courier New !important;
+        font-size: 12px !important;
+    }
+}
+
 @-moz-document domain("192.168.50.250") {
     pre {
         font-family: Courier New !important;
