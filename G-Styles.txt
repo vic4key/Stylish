@@ -88,3 +88,7 @@ pre.resultarea, code {
     font-family: Courier !important;
     font-size: 12px !important;
 }
+.text-mono {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
