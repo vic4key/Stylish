@@ -3,7 +3,7 @@
 _ _ _
 
 
-Code Font **Courier New 12** for almost popular tech sites : [github.com](http://github.com/), [msdn.microsoft.com](https://msdn.microsoft.com/), [stackoverflow.com](https://stackoverflow.com/), ... etc.
+Global code font **Courier New 12** for almost popular tech sites : [github.com](http://github.com/), [msdn.microsoft.com](https://msdn.microsoft.com/), [stackoverflow.com](https://stackoverflow.com/), ... etc.
 
 **Stylish** extension/addon for web browsers :
 - **Chrome / Coccoc** : [Chrome Store](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe/)
@@ -13,4 +13,4 @@ Code Font **Courier New 12** for almost popular tech sites : [github.com](http:/
 _ _ _
 
 
-Blog: http://viclab.biz/
+Website: https://vic.onl/
