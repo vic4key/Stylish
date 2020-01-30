@@ -92,3 +92,11 @@ pre.resultarea, code {
     font-family: Courier !important;
     font-size: 12px !important;
 }
+.crayon-font-consolas * {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
+.crayon-syntax .crayon-num, .crayon-syntax .crayon-pre .crayon-line, .crayon-syntax .crayon-toolbar *, .crayon-syntax .crayon-pre * {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
