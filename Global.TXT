@@ -92,6 +92,10 @@ pre.resultarea, code {
     font-family: Courier !important;
     font-size: 12px !important;
 }
+.input-monospace {
+    font-family: Courier !important;
+    font-size: 12px !important;
+}
 .crayon-font-consolas * {
     font-family: Courier !important;
     font-size: 12px !important;
