@@ -1,106 +1,125 @@
 /* Common */
- pre, tt, code {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+pre,
+tt,
+code {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 /* MSDN */
- .codeSnippetContainerCode pre {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+.codeSnippetContainerCode pre {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 /* Syntax Highlighter */
- .syntaxhighlighter pre, .syntaxhighlighter code, .syntaxhighlighter .line .syntaxhighlighter textarea {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+.syntaxhighlighter pre,
+.syntaxhighlighter code,
+.syntaxhighlighter .line .syntaxhighlighter textarea {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 /* ACE Editor */
- .ace_editor {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+.ace_editor {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 .ace-tm {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 .ace_content {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 .sheet.selected {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 /* Code Mirror */
- .CodeMirror {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+.CodeMirror {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
-pre.resultarea, code {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+pre.resultarea,
+code {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 /* Blob */
- .blob-code {
-    font-family:"Courier New" !important;
-    font-size: 12px !important;
+.blob-code {
+	font-family: "Courier New" !important;
+	font-size: 12px !important;
 }
 .blob-num {
-    font-family:"Courier New" !important;
-    font-size: 12px !important;
+	font-family: "Courier New" !important;
+	font-size: 12px !important;
 }
 .readme .plain pre {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
-.markdown-body pre code, .markdown-body pre tt {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+.markdown-body pre code,
+.markdown-body pre tt {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
-.markdown-body code, .markdown-body tt {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+.markdown-body code,
+.markdown-body tt {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
-.markdown-body .highlight pre, .markdown-body pre {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+.markdown-body .highlight pre,
+.markdown-body pre {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 .commits-list-item .commit-desc pre {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
-.commit .commit-title, .commit .commit-title a {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+.commit .commit-title,
+.commit .commit-title a {
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 .commit-desc pre {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 .f5 {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 .file-info {
-    font-family: Courier New !important;
-    font-size: 12px !important;
+	font-family: Courier New !important;
+	font-size: 12px !important;
 }
 .blob-code-inner {
-    font-family: Courier !important;
-    font-size: 12px !important;
+	font-family: Courier !important;
+	font-size: 12px !important;
 }
 .text-mono {
-    font-family: Courier !important;
-    font-size: 12px !important;
+	font-family: Courier !important;
+	font-size: 12px !important;
 }
 .input-monospace {
-    font-family: Courier !important;
-    font-size: 12px !important;
+	font-family: Courier !important;
+	font-size: 12px !important;
 }
 .crayon-font-consolas * {
-    font-family: Courier !important;
-    font-size: 12px !important;
+	font-family: Courier !important;
+	font-size: 12px !important;
 }
-.crayon-syntax .crayon-num, .crayon-syntax .crayon-pre .crayon-line, .crayon-syntax .crayon-toolbar *, .crayon-syntax .crayon-pre * {
-    font-family: Courier !important;
-    font-size: 12px !important;
+.crayon-syntax .crayon-num,
+.crayon-syntax .crayon-pre .crayon-line,
+.crayon-syntax .crayon-toolbar *,
+.crayon-syntax .crayon-pre * {
+	font-family: Courier !important;
+	font-size: 12px !important;
+}
+.blob-code-inner,
+.blob-code-inner > *,
+.CodeMirror pre > span,
+.CodeMirror-linenumber {
+	font-family: Courier !important;
+	font-size: 12px !important;
 }
