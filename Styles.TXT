@@ -120,3 +120,6 @@ div.fragment div.line {
     font-family: Courier New !important;
     font-size: 12px !important;
 }
+pre.prettyprint {
+    font-size: 12px !important;
+}
