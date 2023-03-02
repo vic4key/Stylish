@@ -123,3 +123,7 @@ div.fragment div.line {
 pre.prettyprint {
     font-size: 12px !important;
 }
+.react-code-text {
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
