@@ -128,18 +128,22 @@ pre.prettyprint {
     font-size: 12px !important;
 }
 .view-lines > .view-line {
-	font-family: Courier New !important;
-	font-size: 12px !important;
+    font-family: Courier New !important;
+    font-size: 12px !important;
 }
 .margin-view-overlays {
-	font-family: Courier New !important;
-	font-size: 12px !important;
+    font-family: Courier New !important;
+    font-size: 12px !important;
 }
 .cm-content {
-	font-family: Courier New !important;
-	font-size: 12px !important;
+    font-family: Courier New !important;
+    font-size: 12px !important;
 }
 .cm-scroller {
-	font-family: Courier New !important;
-	font-size: 12px !important;
+    font-family: Courier New !important;
+    font-size: 12px !important;
+}
+.hljs {
+    font-family: Courier New !important;
+    font-size: 12px !important;
 }
